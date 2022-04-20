@@ -1,17 +1,17 @@
 ### Hi there! 👋 I'm Logan Bibby.
 
-😄 Pronouns:
- - he
- - him
+Full-stack developer. [Forever an entreprauner.](https://loganbibby.com/2019/12/16/my-entrepreneurial-journey-so-far/) [Content creator.](https://sassyphras.com)
 
-🔭 I’m currently working on
+😄 Pronouns: he/him
+
+#### 🔭 I’m currently working on:
  - Financial services applications through my job
  - Kuverra, a personal finance manager for adults
  - Keobi, a web hosting upstart
 
 Check out more of [my past and present projects](https://loganbibby.com/projects)
 
-📫 How to reach me:
+#### 📫 How to reach me:
  - [Twitter](https://twitter.com/loganbibby)
  - [E-mail](https://loganbibby.com/contact)
  - Discord: sassyphras#3898
