@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Logan Bibby.
 
-Full-stack developer. [Forever an entreprauner.](https://loganbibby.com/2019/12/16/my-entrepreneurial-journey-so-far/) [Content creator.](https://sassyphras.com)
+Full-stack developer. [Forever an entrepreneur.](https://loganbibby.com/2019/12/16/my-entrepreneurial-journey-so-far/) [Content creator.](https://sassyphras.com)
 
 😄 Pronouns: he/him
 
