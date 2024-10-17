@@ -6,14 +6,14 @@ Full-stack developer. [Forever an entrepreneur.](https://loganbibby.com/2019/12/
 
 #### 🔭 I’m currently working on:
  - Financial services applications through my job
- - Kuverra, a personal finance manager for adults
  - Keobi, a web hosting upstart
+ - E-commerce brands through Kyia
 
 Check out more of [my past and present projects](https://loganbibby.com/projects)
 
-#### 👨‍💻 Technologies I'm fond of:
+#### 👨‍💻 Technologies I'm fond of (or use regularly):
 
-<img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" width="40"><img src="https://github.com/devicons/devicon/raw/master/icons/django/django-plain.svg" width="40"><img src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg" width="40"><img src="https://github.com/devicons/devicon/raw/master/icons/wordpress/wordpress-original.svg" width="40"><img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" width="40"><img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" width="40"><img src="https://github.com/devicons/devicon/raw/master/icons/centos/centos-original.svg" width="40"><img src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40"><img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="40"><img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" width="40"><img src="https://github.com/devicons/devicon/raw/master/icons/jquery/jquery-original.svg" width="40"><img src="https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-original.svg" width="40">
+<img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" width="40"><img src="https://github.com/devicons/devicon/raw/master/icons/django/django-plain.svg" width="40"><img src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg" width="40"><img src="https://github.com/devicons/devicon/raw/master/icons/wordpress/wordpress-original.svg" width="40"><img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" width="40"><img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" width="40"><img src="https://github.com/devicons/devicon/raw/master/icons/centos/centos-original.svg" width="40"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"><img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="40"><img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" width="40"><img src="https://github.com/devicons/devicon/raw/master/icons/jquery/jquery-original.svg" width="40"><img src="https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-original.svg" width="40"><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" width="40"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40">
 
 
 #### 📫 How to reach me:
